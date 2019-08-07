@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Vader, zoon, tech, linux, Windows, gadgets. Alles wat ik leuk vindt.
 author: Jeroen van Drongelen
 email: jeroen@jeroenvd.nl
-avatar: assets/images/avatar.jpg
+avatar: assets/images/avatar_2.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
